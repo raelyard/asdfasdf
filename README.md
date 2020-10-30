@@ -12,3 +12,8 @@ clone the repo
 
 - [Google](https://google.com)
 
+
+
+For more info:
+
+[Fancy more documentation](docs/more-info.md)
