@@ -17,3 +17,6 @@ clone the repo
 For more info:
 
 [Fancy more documentation](docs/more-info.md)
+
+
+thanks for being interested
